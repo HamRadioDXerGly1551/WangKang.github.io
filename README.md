@@ -1,2 +1,2 @@
-# linmufeng.github.io
-林沐风的个人网站
+# Wangkang.github.io
+王康的个人博客
